@@ -1,0 +1,28 @@
+{
+  "basket": {
+    "cargoAmount": "Cargo Amount",
+    "discountAmount": "Discount Amount",
+    "generalTotalAmount": "General Total Amount",
+    "name": "Basket",
+    "summary": "Basket Summary",
+    "totalAmount": "Total Amount"
+  },
+  "general": {
+    "areYouSure": "Are You Sure?",
+    "cancel": "Cancel",
+    "color": "Color",
+    "continue": "Continue",
+    "delete": "Delete",
+    "quantity": "Quantity",
+    "size": "Size"
+  },
+  "product": {
+    "delete": "Product Delete",
+    "description": {
+      "noProductInBasket": "There is no product in basket",
+      "willBeDeleted": "<strong>{product}</strong> product will be deleted.@:general.areYouSure"
+    },
+    "list": "Products",
+    "name": "Product"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "basket": [
+    {
+      "Brand": "Reebok",
+      "Category": "Sneakers",
+      "Color": "Beyaz",
+      "DiscountAmount": 150,
+      "DiscountRate": 25,
+      "DisplayName": "Legacy Court Beyaz Kadın Sneaker",
+      "OriginalPrice": 599,
+      "Quantity": 1,
+      "ResizedImage": "https://cdn.beymen.com/mnresize/170/240/productimages/wtopr3pg.crr_IMG_01_2110081024463.jpg",
+      "SalePrice": 449,
+      "Size": "40",
+      "Url": "p_reebok-legacy-court-beyaz-kadin-sneaker_783697",
+      "id": 783697
+    },
+    {
+      "Brand": "Adidas",
+      "Category": "Sneakers",
+      "Color": "Çok Renkli Beyaz",
+      "DiscountAmount": 320,
+      "DiscountRate": 27,
+      "DisplayName": "Streetball Beyaz Erkek Sneaker",
+      "OriginalPrice": 1199,
+      "Quantity": 1,
+      "ResizedImage": "https://cdn.beymen.com/mnresize/170/240/productimages/5kfhjmwi.04h_IMG_01_2110079243357.JPG",
+      "SalePrice": 879,
+      "Size": "6.5",
+      "Url": "p_adidas-streetball-beyaz-erkek-sneaker_711351",
+      "id": 711351
+    },
+    {
+      "Brand": "Adidas",
+      "Category": "Sneakers",
+      "Color": "Yeşil",
+      "DiscountAmount": 240,
+      "DiscountRate": 26,
+      "DisplayName": "Superstar Yeşil Erkek Sneaker",
+      "OriginalPrice": 929,
+      "Quantity": 1,
+      "ResizedImage": "https://cdn.beymen.com/mnresize/170/240/productimages/vr32nh4n.uvu_IMG_01_2110081008692.jpg",
+      "SalePrice": 689,
+      "Size": "40",
+      "Url": "p_adidas-superstar-yesil-erkek-sneaker_783212",
+      "id": 783699
+    }
+  ],
+  "summary": {
+    "CargoAmount": 0,
+    "DiscountAmount": 710,
+    "GeneralTotalAmount": 1636.2,
+    "TotalAmount": 2727
+  }
+}

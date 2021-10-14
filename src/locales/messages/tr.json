@@ -1,0 +1,28 @@
+{
+  "basket": {
+    "cargoAmount": "Kargo Ücreti",
+    "discountAmount": "İndirim Miktarı",
+    "generalTotalAmount": "Genel Toplam Ücret",
+    "name": "Sepet",
+    "summary": "Alışveriş Özeti",
+    "totalAmount": "Toplam Ödenecek Miktar"
+  },
+  "general": {
+    "areYouSure": "Emin misiniz?",
+    "cancel": "İptal",
+    "color": "Renk",
+    "continue": "Devam Et",
+    "delete": "Sil",
+    "quantity": "Adet",
+    "size": "Beden"
+  },
+  "product": {
+    "delete": "Ürün Sil",
+    "description": {
+      "noProductInBasket": "Sepette ürün bulunmamaktadır.",
+      "willBeDeleted": "<strong>{product}</strong> ürünü silinecektir.@:general.areYouSure"
+    },
+    "list": "Ürünlerim",
+    "name": "Ürün"
+  }
+}
