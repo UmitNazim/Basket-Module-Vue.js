@@ -1,4 +1,4 @@
-# Beymen Basket Module
+# Basket Module
 
 ## Project setup
 
